@@ -58,7 +58,7 @@ if __name__ == '__main__':
         author="Erik Rose, Peter Potrowl",
         author_email="grinch@grinchcentral.com, peter.potrowl@gmail.com",
         url="https://github.com/peter17/mediawiki-parser",
-        version="0.4.1",
+        version="0.5.0",
         license="GPL v3",
         description="A parser for the MediaWiki syntax, based on Pijnu.",
         long_description=read('README.rst'),
